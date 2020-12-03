@@ -1,6 +1,6 @@
 ### Hi there, I'm [mixj93](https://xueli.li/) 👋
 
-- 🔭 I’m currently working on Web and K8s
+- 🔭 I’m currently working on Web, React and K8s
 - 🌱 I’m currently learning K8s and Linux
 - 💬 Ask me about anything
 - 📫 How to reach me: @mixj93
