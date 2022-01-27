@@ -1,7 +1,7 @@
 ### Hi there, I'm [mixj93](https://xueli.li/) 👋
 
 - 🔭 I’m currently working on Web, React and K8s
-- 🌱 I’m currently learning K8s and Linux
+- 🌱 I’m currently learning risk control and device fingerprints
 - 💬 Ask me about anything
 - 📫 How to reach me: @mixj93
 
@@ -19,10 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/mixj93">
-  <img align="center" src="https://mixj93-github-readme-stats.vercel.app/api?username=mixj93&hide=contribs&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/mixj93">
-  <img align="center" src="https://mixj93-github-readme-stats.vercel.app/api/top-langs/?username=mixj93&layout=compact" />
-</a>
